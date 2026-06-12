@@ -1,0 +1,147 @@
+Mean sewer_and_water by location:
+Location 1: 4.7401
+Location 2: 3.4135
+Location 3: 7.2754
+Location 4: 5.4687
+Location 5: 4.2053
+Location 6: 2.9380
+Location 7: 8.5000
+Location 8: 7.4997
+Location 9: 7.4560
+Location 10: 5.6769
+Location 11: 6.2890
+Location 12: 3.1828
+Location 13: 3.8899
+Location 14: 6.1258
+Location 15: 3.5346
+Location 16: 5.1828
+Location 17: 1.9102
+Location 18: 3.3564
+Location 19: 2.7485
+
+Mean power by location:
+Location 1: 4.7593
+Location 2: 4.3135
+Location 3: 8.4614
+Location 4: 4.2240
+Location 5: 5.0655
+Location 6: 3.0630
+Location 7: 7.8382
+Location 8: 7.4578
+Location 9: 5.7264
+Location 10: 7.6182
+Location 11: 7.6951
+Location 12: 5.5862
+Location 13: 3.2439
+Location 14: 6.2565
+Location 15: 3.1413
+Location 16: 3.6273
+Location 17: 5.8917
+Location 18: 6.0260
+Location 19: 2.9122
+
+Mean roads_and_bridges by location:
+Location 1: 4.8676
+Location 2: 4.7798
+Location 3: 7.2671
+Location 4: 4.2138
+Location 5: 4.0836
+Location 6: 3.3190
+Location 7: 5.9191
+Location 8: 7.6583
+Location 9: 6.5913
+Location 10: 5.9503
+Location 11: 4.9817
+Location 12: 4.0398
+Location 13: 4.1591
+Location 14: 6.2724
+Location 15: 3.5771
+Location 16: 4.1714
+Location 17: 5.8743
+Location 18: 4.0570
+Location 19: 2.8878
+
+Mean medical by location:
+Location 1: 4.9747
+Location 2: 5.0000
+Location 3: 7.0553
+Location 4: 5.4231
+Location 5: 2.1105
+Location 6: 3.3060
+Location 7: 6.0000
+Location 8: 5.1745
+Location 9: 5.1850
+Location 10: 4.8000
+Location 11: 3.8442
+Location 12: 5.3269
+Location 13: 4.0000
+Location 14: 4.7412
+Location 15: 5.5333
+Location 16: 3.6149
+Location 17: 4.5882
+Location 18: 4.5507
+Location 19: 5.2273
+
+Mean buildings by location:
+Location 1: 4.9049
+Location 2: 1.9601
+Location 3: 5.8320
+Location 4: 3.6920
+Location 5: 3.4947
+Location 6: 3.5161
+Location 7: 5.6667
+Location 8: 5.7820
+Location 9: 6.1685
+Location 10: 6.3516
+Location 11: 4.9638
+Location 12: 3.1403
+Location 13: 4.0416
+Location 14: 4.7241
+Location 15: 3.0804
+Location 16: 3.3494
+Location 17: 3.2942
+Location 18: 4.9809
+Location 19: 3.5498
+
+Mean shake_intensity by location:
+Location 1: 0.7089
+Location 2: 1.5460
+Location 3: 4.8670
+Location 4: 4.6199
+Location 5: 0.6647
+Location 6: 1.1540
+Location 7: 4.6646
+Location 8: 1.6324
+Location 9: 1.0804
+Location 10: 1.5700
+Location 11: 2.5602
+Location 12: 4.3976
+Location 13: 2.4622
+Location 14: 3.4445
+Location 15: 2.2098
+Location 16: 1.1502
+Location 17: 1.6302
+Location 18: 3.5189
+Location 19: 1.9742
+
+Mean location by location:
+Location 1: 1.0000
+Location 2: 2.0000
+Location 3: 3.0000
+Location 4: 4.0000
+Location 5: 5.0000
+Location 6: 6.0000
+Location 7: 7.0000
+Location 8: 8.0000
+Location 9: 9.0000
+Location 10: 10.0000
+Location 11: 11.0000
+Location 12: 12.0000
+Location 13: 13.0000
+Location 14: 14.0000
+Location 15: 15.0000
+Location 16: 16.0000
+Location 17: 17.0000
+Location 18: 18.0000
+Location 19: 19.0000
+
