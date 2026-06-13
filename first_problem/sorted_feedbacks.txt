@@ -123,25 +123,3 @@ Location 16: 1.1502
 Location 17: 1.6302
 Location 18: 3.5189
 Location 19: 1.9742
-
-Mean location by location:
-Location 1: 1.0000
-Location 2: 2.0000
-Location 3: 3.0000
-Location 4: 4.0000
-Location 5: 5.0000
-Location 6: 6.0000
-Location 7: 7.0000
-Location 8: 8.0000
-Location 9: 9.0000
-Location 10: 10.0000
-Location 11: 11.0000
-Location 12: 12.0000
-Location 13: 13.0000
-Location 14: 14.0000
-Location 15: 15.0000
-Location 16: 16.0000
-Location 17: 17.0000
-Location 18: 18.0000
-Location 19: 19.0000
-
