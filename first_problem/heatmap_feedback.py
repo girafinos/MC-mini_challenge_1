@@ -30,7 +30,7 @@ def create_heatmap(column_name, matriz, shake_intensity=None):
                 fontweight='bold'
             )
             
-            if shake_intensity is None:
+            if shake_intensity is None or column_name == "shake_intensity":
                 continue
             
             plt.text(
