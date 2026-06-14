@@ -86,7 +86,7 @@ if __name__ == '__main__':
         print(f"Location {loc}: {val}")
     print()
 
-    plt.imshow(count_matrix, aspect='auto', cmap='viridis')
+    plt.imshow(count_matrix, aspect='auto', cmap='summer')
     plt.title("Número de relatos por região")
     plt.colorbar()
     plt.axis('off')
@@ -107,7 +107,7 @@ if __name__ == '__main__':
         print(f"Location {loc}: {val}")
     print()
 
-    plt.imshow(medical_count_matrix, aspect='auto', cmap='viridis')
+    plt.imshow(medical_count_matrix, aspect='auto', cmap='summer')
     plt.title("Número de relatos - categoria Medical")
     plt.colorbar()
     plt.axis('off')
