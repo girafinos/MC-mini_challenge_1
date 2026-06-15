@@ -80,9 +80,16 @@ if __name__ == '__main__':
         plt.clf()
 
     # ---- Heatmap de Contagem de Relatórios ----
-    count_matrix = to_matrix(count_result['sewer_and_water'])
-    print("--- Report Count ---")
-    for loc, val in sorted(count_result['sewer_and_water'].items(), key=lambda x: int(x[0])):
+    total_count_per_location = defaultdict(int)
+
+    for column in columns:
+        for loc, val in count_result[column].items():
+            total_count_per_location[loc] += val
+
+    count_matrix = to_matrix(total_count_per_location)
+
+    print("--- Report Count (ALL categories) ---")
+    for loc, val in sorted(total_count_per_location.items(), key=lambda x: int(x[0])):
         print(f"Location {loc}: {val}")
     print()
 
